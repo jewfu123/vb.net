@@ -1,4 +1,6 @@
-some sample codes about vb.net
+## some sample codes about vb.net
 
-install new package to make vb.net connect to mysql:
+## install new package to make vb.net connect to mysql:
+```VB
 PM> Install-package WpfApp1 -ProjectName WpfApp1
+```
