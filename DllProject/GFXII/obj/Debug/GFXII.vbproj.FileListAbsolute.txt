@@ -1,0 +1,9 @@
+C:\Users\jewfu\source\repos\DllProject\GFXII\obj\Debug\GFXII.Resources.resources
+C:\Users\jewfu\source\repos\DllProject\GFXII\obj\Debug\GFXII.vbproj.GenerateResource.cache
+C:\Users\jewfu\source\repos\DllProject\GFXII\obj\Debug\GFXII.vbproj.CoreCompileInputs.cache
+C:\Users\jewfu\source\repos\DllProject\GFXII\bin\Debug\GFXII.dll
+C:\Users\jewfu\source\repos\DllProject\GFXII\bin\Debug\GFXII.pdb
+C:\Users\jewfu\source\repos\DllProject\GFXII\bin\Debug\GFXII.xml
+C:\Users\jewfu\source\repos\DllProject\GFXII\obj\Debug\GFXII.dll
+C:\Users\jewfu\source\repos\DllProject\GFXII\obj\Debug\GFXII.xml
+C:\Users\jewfu\source\repos\DllProject\GFXII\obj\Debug\GFXII.pdb

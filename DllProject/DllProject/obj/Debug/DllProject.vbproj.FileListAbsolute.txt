@@ -1,0 +1,16 @@
+C:\Users\jewfu\source\repos\DllProject\DllProject\bin\Debug\DllProject.exe.config
+C:\Users\jewfu\source\repos\DllProject\DllProject\bin\Debug\DllProject.exe
+C:\Users\jewfu\source\repos\DllProject\DllProject\bin\Debug\DllProject.pdb
+C:\Users\jewfu\source\repos\DllProject\DllProject\bin\Debug\DllProject.xml
+C:\Users\jewfu\source\repos\DllProject\DllProject\bin\Debug\GFXII.dll
+C:\Users\jewfu\source\repos\DllProject\DllProject\bin\Debug\GFXII.pdb
+C:\Users\jewfu\source\repos\DllProject\DllProject\bin\Debug\GFXII.xml
+C:\Users\jewfu\source\repos\DllProject\DllProject\obj\Debug\DllProject.vbproj.AssemblyReference.cache
+C:\Users\jewfu\source\repos\DllProject\DllProject\obj\Debug\DllProject.Resources.resources
+C:\Users\jewfu\source\repos\DllProject\DllProject\obj\Debug\DllProject.vbproj.GenerateResource.cache
+C:\Users\jewfu\source\repos\DllProject\DllProject\obj\Debug\DllProject.vbproj.CoreCompileInputs.cache
+C:\Users\jewfu\source\repos\DllProject\DllProject\obj\Debug\DllProject.vbproj.CopyComplete
+C:\Users\jewfu\source\repos\DllProject\DllProject\obj\Debug\DllProject.exe
+C:\Users\jewfu\source\repos\DllProject\DllProject\obj\Debug\DllProject.xml
+C:\Users\jewfu\source\repos\DllProject\DllProject\obj\Debug\DllProject.pdb
+C:\Users\jewfu\source\repos\DllProject\DllProject\obj\Debug\DllProject.Form1.resources
