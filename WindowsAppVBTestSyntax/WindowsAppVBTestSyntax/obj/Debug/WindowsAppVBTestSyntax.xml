@@ -1,0 +1,191 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsAppVBTestSyntax
+</name>
+</assembly>
+<members>
+<member name="T:WindowsAppVBTestSyntax.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsAppVBTestSyntax.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsAppVBTestSyntax.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.employeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.EmployeeattendanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.loginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.rentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.shopDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.tenentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.employeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.EmployeeattendanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.loginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.rentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.shopRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.tenentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.employeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.EmployeeattendanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.loginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.rentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.shopRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSet.tenentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.employeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.EmployeeattendanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.loginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.rentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.shopTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.tenentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsAppVBTestSyntax.mallmanagementDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsAppVBTestSyntax.mallmanagementDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsAppVBTestSyntax.mallmanagementDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsAppVBTestSyntax.mallmanagementDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsAppVBTestSyntax.mallmanagementDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
